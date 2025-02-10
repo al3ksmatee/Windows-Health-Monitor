@@ -91,3 +91,6 @@ $($topProcesses | Format-Table -AutoSize | Out-String)
     # Wait before next check
     Start-Sleep -Seconds $Interval
 }
+![Screenshot 2025-02-10 180809](https://github.com/user-attachments/assets/8d9e0f32-1d2c-43a3-b365-283b39d694a0)
+![Screenshot 2025-02-10 180839](https://github.com/user-attachments/assets/eb10b25f-d520-4004-a2bb-419467573db1)
+
